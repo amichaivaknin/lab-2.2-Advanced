@@ -10,3 +10,6 @@ C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab2.2\Gen
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab2.2\GenericClass\GenericApp\bin\Debug\GenericApp.exe
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab2.2\GenericClass\GenericApp\bin\Debug\GenericApp.pdb
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\Advanced\lab2.2\GenericClass\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Amihai Vaknin\lab-2.2-Advanced\GenericClass\GenericApp\bin\Debug\GenericApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Amihai Vaknin\lab-2.2-Advanced\GenericClass\GenericApp\obj\Debug\GenericApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Amihai Vaknin\lab-2.2-Advanced\GenericClass\GenericApp\obj\Debug\GenericApp.pdb
